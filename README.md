@@ -11,6 +11,19 @@
 
 # Projetos
 
+ ## Pool-Magic 🏊🏼‍♂️
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NinjaAzul&repo=Magic-Pool)](https://github.com/NinjaAzul/github-readme-stats)
+
+ ## Estudos com JS 📚
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+## NPS Sistem 📚
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # 📊 Status no GIT
 
 ![NinjaAzul GitHub stats](https://github-readme-stats.vercel.app/api?username=NinjaAzul&show_icons=true&theme=gruvbox  )
