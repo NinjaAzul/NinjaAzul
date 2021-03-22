@@ -13,15 +13,15 @@
 
  ## Pool-Magic 🏊🏼‍♂️
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NinjaAzul&repo=Magic-Pool)](https://github.com/NinjaAzul/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NinjaAzul&repo=Magic-Pool)](https://github.com/NinjaAzul/Magic-Pool)
 
  ## Estudos com JS 📚
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NinjaAzul&repo=JS)](https://github.com/NinjaAzul/JS)
 
 ## NPS Sistem 📚
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NinjaAzul&repo=NLW4)](https://github.com/NinjaAzul/NLW4)
 
 
 # 📊 Status no GIT
